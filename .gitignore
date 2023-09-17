@@ -1,1 +1,5 @@
+# Exclude files
 secrets.txt
+
+# Exclude folders
+cache/
